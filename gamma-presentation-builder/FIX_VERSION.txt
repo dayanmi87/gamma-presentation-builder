@@ -1,0 +1,2 @@
+2026-06-26-no-temperature-v2
+Verified locally: npm run build passed; grep found no temperature parameter.
